@@ -1,30 +1,28 @@
 !pip install certifi==2020.11.8
- !pip install chardet==3.0.4
- !pip install click==7.1.2
- !pip install cycler==0.10.0
+!pip install chardet==3.0.4
+!pip install click==7.1.2
+!pip install cycler==0.10.0
 !pip install gensim==3.8.3
- !pip install idna==2.10
- !pip install joblib==0.17.0
- !pip install kiwisolver==1.3.1
- !pip install matplotlib==3.1.3
- !pip install nltk==3.5
- !pip install numpy==1.19.4
- !pip install Pillow==8.0.1
- !pip install pyparsing==2.4.7
- !pip install python-dateutil==2.8.1
- !pip install regex==2020.11.13
- !pip install requests==2.25.0
- !pip install scikit-learn==0.23.2
- !pip install scipy==1.5.4
- !pip install six==1.15.0
- !pip install sklearn==0.0
- !pip install smart-open==3.0.0
- !pip install threadpoolctl==2.1.0
- !pip install tqdm==4.51.0
- !pip install urllib3==1.26.2
- !pip install wordcloud
- !pip install pyLDAvis
-
+!pip install idna==2.10
+!pip install joblib==0.17.0
+!pip install kiwisolver==1.3.1
+!pip install matplotlib==3.1.3
+!pip install nltk==3.5
+!pip install numpy==1.19.4
+!pip install Pillow==8.0.1
+!pip install pyparsing==2.4.7
+!pip install python-dateutil==2.8.1
+!pip install regex==2020.11.13
+!pip install requests==2.25.0
+!pip install scikit-learn==0.23.2
+!pip install scipy==1.5.4
+!pip install six==1.15.0
+!pip install sklearn==0.0
+!pip install smart-open==3.0.0
+!pip install threadpoolctl==2.1.0
+!pip install tqdm==4.51.0
+!pip install urllib3==1.26.2
+!pip install wordcloud
 !pip install pyLDAvis
 
 """## **Import Packages**"""
